@@ -30,13 +30,13 @@ setInterval(updateUserCount, 3000);
 updateUserCount();
 
 const images = [
-    "../images/img1.jpg",
-    "../images/img2_s.jpeg",
-    "../images/img6.avif",
+    "img1.jpg",
+    "img2_s.jpeg",
+    "img6.avif",
     "https://assets.change.org/photos/3/td/cz/pytdCZcRKwxmInH-1600x900-noPad.jpg?1589957690",
-    "../images/image15.png",
-    "../images/image8.png",
-    "../images/image14.png",
+    "image15.png",
+    "image8.png",
+    "image14.png",
 ];
 
 let currentIndex = 0;
